@@ -1,0 +1,2 @@
+# StockGenie
+DataGenie
